@@ -1,0 +1,45 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    text-align: center;
+    background-color: darkgrey;
+   
+    
+}
+
+nav{
+    background-color: darkgrey;
+    text-align: center;
+   
+}
+nav ul li{
+    display: inline-block;
+    text-decoration: none;
+    margin: 40px;
+ 
+}
+
+ul li {
+    margin-left: 100px;
+}
+section{
+    text-align: center;
+    padding: 2px;
+    
+}
+button{
+    font-family: serif;
+    color: rgb(26, 25, 23);
+}
+p{
+  font-family: Verdana;  
+margin: 100px;
+}
+footer{
+    clear: both;
+    text-align: center;
+    background-color: darkslategray;
+}
