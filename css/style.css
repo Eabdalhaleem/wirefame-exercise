@@ -5,26 +5,30 @@ body{
 
 header{
     text-align: center;
-    background-color: darkgrey;
-   
-    
+       
 }
 
 nav{
-    background-color: darkgrey;
+    background-color: rgb(59, 59, 59);
     text-align: center;
-   
+    height: 100px;
 }
 nav ul li{
     display: inline-block;
     text-decoration: none;
-    margin: 40px;
- 
+
+   
+}
+nav ul img{
+    margin-top: 15px;
+    margin-right:30px;            
+  
 }
 
 ul li {
-    margin-left: 100px;
+  margin-right: 50px;
 }
+
 section{
     text-align: center;
     padding: 2px;
